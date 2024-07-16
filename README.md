@@ -17,20 +17,21 @@ Democratic People Republic of Korea states:
 > recordings, compilations, and books shall be sentenced to reform through
 > labor for life."
 
-This law has made in more difficult than ever to get need information about the
+This law has made it more difficult than ever to get need information about the
 outside world such as health information, educational material, worship
 material, or simply entertainment needed to cope with the present day
 realities.
 
-In order to support the North Koreans who live under this regime get access to
-much needed information, South Korean Activists have been sending balloons
-across the border with payloads containing USB drives, leaflets of information,
-money, and food. This practice of sending balloons over a boarder is nothing
-new. Recently, however, South Korean activist groups have began creating smart
-balloons which have GPS trackers, altimeters, and
-controlled-release, leaflet dispensers. These smart balloons increase the chances
-of getting materials to a target area from the estimated 15% to, according to one
-activist group, 50%-60%. [These activist groups report spending up to $1000 per
+In order to support the North Koreans who live under this regime, South Korean
+activists have been sending balloons across the border with payloads containing
+USB drives, leaflets of information, money, and food. This practice of sending
+balloons over a boarder is [nothing
+new](https://www.psywarrior.com/BalloonPSYOP.html). Recently, however, South
+Korean activist groups have began creating smart balloons which have GPS
+trackers, altimeters, and controlled-release, leaflet dispensers. These smart
+balloons increase the chances of getting materials to a target area from the
+estimated 15% to, according to one activist group, 50%-60%. [These activist
+groups report spending up to $1000 per
 balloon.](https://www.reuters.com/graphics/NORTHKOREA-SOUTHKOREA/BALLOONS/zdvxxrnzmvx/)
 
 As a community of engineers, developers, and technicians, together we can
