@@ -64,7 +64,8 @@ information into a resource or information starved area.
 ## Design Specifications
 
 Starting from the
-[description](https://www.reuters.com/graphics/NORTHKOREA-SOUTHKOREA/BALLOONS/zdvxxrnzmvx/) of smart balloons being used, they:
+[description](https://www.reuters.com/graphics/NORTHKOREA-SOUTHKOREA/BALLOONS/zdvxxrnzmvx/)
+of smart balloons being used, they:
 
 - can carry a 7.5 Kilo payload
 - can reach 9000 meters altitude
