@@ -27,7 +27,7 @@ activists have been sending balloons across the border with payloads containing
 USB drives, leaflets of information, money, and food. This practice of sending
 balloons over a boarder is [nothing
 new](https://www.psywarrior.com/BalloonPSYOP.html). Recently, however, South
-Korean activist groups have began creating smart balloons which have GPS
+Korean activist groups have begun creating smart balloons which have GPS
 trackers, altimeters, and controlled-release, leaflet dispensers. These smart
 balloons increase the chances of getting materials to a target area from the
 estimated 15% to, according to one activist group, 50%-60%. [These activist
