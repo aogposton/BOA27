@@ -50,7 +50,7 @@ information into a resource or information starved area.
 ## Index
 
 - Design Specifications
-- Dome Materials
+- Balloon Design and Material
 - Fuel/Lifting Agent
 - Navigation
 - Altitude Controls
@@ -75,9 +75,14 @@ of smart balloons being used, they:
 - may contain a speaker which ejects from the balloon and plays songs for up to
   5 days.
 
+## Balloon Design and Material
+
+
 ## Resources
 
 - [Lifting Capacity Calculator](https://www.omnicalculator.com/everyday-life/helium-balloons)
+- [Balloon Burst Calculator](https://sondehub.org/calc/)
+- [Kaymont: A Meteorological Balloon Distributor](https://www.kaymont.com/shop)
 
 ## TODO
 
